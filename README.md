@@ -1,7 +1,9 @@
 ### Hello, I'm Haiko.
 
 
-still just playing around and learning
+still just playing around
+
+
 
 ## Currently learning and working on:
 
