@@ -1,4 +1,4 @@
-### Hello, I'm Haiko.
+# Hello, I'm Haiko.
 </br>
 still just playing around
 </br>
@@ -19,7 +19,7 @@ Android development with:
 </br>
 </br>
 
-# GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HaikoFL&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HaikoFL&theme=transparent&hide_border=true)<br/>
 
