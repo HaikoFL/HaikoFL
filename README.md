@@ -15,11 +15,6 @@ Android development with:
 - Jetpack Compose
 - open source
 </br>
-<!---
-HaikoFL/HaikoFL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 </br>
 
 
@@ -28,6 +23,12 @@ You can click the Preview link to take a look at your changes.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HaikoFL&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HaikoFL&theme=transparent&hide_border=true)<br/>
+
+
+<!--
+HaikoFL/HaikoFL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HaikoFL&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
