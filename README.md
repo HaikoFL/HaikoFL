@@ -7,9 +7,9 @@ still just playing around
 
 ## Currently learning and working on:
 
-# Android development with:
-  Kotlin
-  XML
+Android development with:
+  - Kotlin
+  - XML
 
 
 ## Topics for the future:
