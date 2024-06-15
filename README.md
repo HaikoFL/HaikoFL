@@ -14,7 +14,7 @@
   - Room
 </br>
 
-## Topics for the future:
+## Topics for the Future:
 - Jetpack Compose
 - open source
 </br>
