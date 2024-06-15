@@ -1,9 +1,9 @@
 ### Hello, I'm Haiko.
 </br>
 still just playing around
-</br>
+
 ## Currently learning and working on:
-</br>
+
 Android development with:
   - Kotlin
   - XML
