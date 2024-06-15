@@ -9,6 +9,7 @@ still just playing around
 Android development with:
   - Kotlin
   - XML
+  - Room
 </br>
 
 ## Topics for the future:
