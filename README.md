@@ -8,7 +8,7 @@
 
 ## Currently learning and working on:
 
-Android development with:
+#### Android development with:
   - Kotlin
   - XML
   - Room
