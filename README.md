@@ -1,6 +1,8 @@
 </br>
+
 # Welcome and Hello
 </br>
+
 ### I'm Haiko and so far pretty much just playing around to learn the basics of git.
 </br>
 </br>
