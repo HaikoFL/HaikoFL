@@ -1,6 +1,7 @@
 ### Hello, I'm Haiko.
 </br>
 still just playing around
+</br>
 
 ## Currently learning and working on:
 
@@ -8,6 +9,7 @@ Android development with:
   - Kotlin
   - XML
 </br>
+
 ## Topics for the future:
 - Jetpack Compose
 - open source
