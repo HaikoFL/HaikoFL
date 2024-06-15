@@ -4,7 +4,7 @@
 </br>
 
 ### I'm Haiko and so far :
-/t pretty much just playing around to learn the basics of git.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pretty much just playing around to learn the basics of git.
 </br>
 </br>
 
