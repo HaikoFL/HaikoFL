@@ -1,20 +1,17 @@
 ### Hello, I'm Haiko.
-
-
+</br>
 still just playing around
-
-
-
+</br>
 ## Currently learning and working on:
-
+</br>
 Android development with:
   - Kotlin
   - XML
-
-
+</br>
 ## Topics for the future:
 - Jetpack Compose
 - open source
+</br>
 <!---
 HaikoFL/HaikoFL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
