@@ -10,12 +10,13 @@
 
 #### Android development with:
   - Kotlin
-  - XML
+  - (XML)
+  - Jetpack Compose
   - Room
 </br>
 
 ## Topics for the Future:
-- Jetpack Compose
+- Kotlin Multiplatform
 - open source
 </br>
 </br>
