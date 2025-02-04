@@ -9,7 +9,7 @@
   - Kotlin
   - Jetpack Compose
   - Room
-  - Retrofit/
+  - Retrofit
   - Ktor
   - Koin
 </br>
