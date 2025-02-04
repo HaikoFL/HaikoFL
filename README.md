@@ -1,17 +1,18 @@
 
 # Welcome
-
-### I'm Haiko Flohr
+### Haiko Flohr
 &nbsp;
 </br>
 
-## Current Projects:
+## Junior Software Developer with focus on Native Android Development
 
-#### Native Android Development with:
+#### Native Android Development
   - Kotlin
   - Jetpack Compose
   - Room
-  - Retrofit
+  - Retrofit/
+  - Ktor
+  - Koin
 </br>
 </br>
 </br>
