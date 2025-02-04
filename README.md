@@ -1,6 +1,5 @@
 
-# Welcome
-## Haiko Flohr
+# Haiko Flohr
 &nbsp;
 </br>
 
